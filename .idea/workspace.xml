@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6e1a74ff-6acc-49f1-9090-2a94692ed845" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6e1a74ff-6acc-49f1-9090-2a94692ed845" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +67,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JEE\lagou-spider" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\JEE\lagou-spider\src\main\resources" />
     </key>
@@ -131,7 +132,7 @@
       <workItem from="1564455486370" duration="144000" />
       <workItem from="1564455764679" duration="291000" />
       <workItem from="1564457075404" duration="417000" />
-      <workItem from="1564484347212" duration="859000" />
+      <workItem from="1564484347212" duration="1049000" />
     </task>
     <servers />
   </component>
